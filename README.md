@@ -1,5 +1,6 @@
 # C_exercises
-my first programming exercises in the beginning of my academic studies (Introduction to CS course)
+My first programming exercises in the beginning of my academic studies (Introduction to Computer Science course)
+and my Operating Systems course exercises (more complicated exercises from the 2nd year of my studies).
 
 *************************************************************************************
 Each directory contains one exercise. The input and output requirements are detailed in a pdf file.
