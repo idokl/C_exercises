@@ -1,26 +1,3 @@
-/*************************
-MY DETAILS ARE IN LINE 25
-**************************/
-
-//BS"D
-/*********************************************************************
-* Credits (people that helped me a little bit) :
-**********************************************************************
-My father helped me to cast the identifier "root" from BST_ROOT type to
-BST_T* type and explain to me about casting and about the reason to use it
-in this exercise for hiding our structures from the users.
-
-He helped me also to change the definition of BSTFindElement (type 
-of return value) because there was a contradiction in the code in
-"lesson 9" between the decleration and the definition.
-(but I changed BSTFindElement to recursive function by myself).
-
-I read some of the codes from
-http://www.algolist.net/Data_structures/Binary_search_tree
-(the site that also show how to delete node)
-but I didn't understand/use it a lot (it isn't c language).
-*/
-
 /******************************************
 * Ido Klein
 * 203392964

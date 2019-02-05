@@ -4,16 +4,6 @@
  * Student ID: 203392964
  * Course Exercise Group: 03
  * Exercise name: ex2
- * GRATITUDE:
- * - Thanks to friends for some good ideas about the recommended way to implement some abilities.
- * - Thanks to friend that showed to me this website:
- *   https://www.leaseweb.com/labs/2014/03/text-mode-2048-game-c-algorithm-explained/
- *   that introduces pseudo code to the algorithm of 2048.
- *   (although that I chose another way to implement it and I think that my algorithm is better...)
- * - Thanks to the "google doc" file that contains answers of the instructors to the students.
- *   (although that I think the new requirement to "Game Over" or "Congaratulations" message is
- *   redundant).
- * - Thanks to the tirgul presentations.
  ****************************************************************************************/
 
 #include <stdio.h>

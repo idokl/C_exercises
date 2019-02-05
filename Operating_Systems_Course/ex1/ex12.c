@@ -3,13 +3,6 @@
  * Student ID: 203392964
  * Course Exercise Group: 03
  * Exercise name: ex1 task 2 (ex12)
- * CREDITS:
- * Thanks to friends that told me about the functions that
- * I have to use in every part of the exercise.
- * Thanks to some websites for examples of code to implement
- * some specific abilities.
- * Thanks to Alon for https://piazza.com/class/j0uxuou4sk82f8?cid=46
- * Thanks to the tirgul presentations.
  ***************************************************/
 
 //defining enumurations and structs

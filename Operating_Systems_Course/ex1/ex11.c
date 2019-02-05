@@ -3,10 +3,6 @@
  * Student ID: 203392964
  * Course Exercise Group: 03
  * Exercise name: ex1 task 1 (ex11)
- * CREDITS:
- * Thanks to friends that told me about the functions that
- * I have to use in every part of the exercise.
- * Thanks to the tirgul presentations.
  ***************************************************/
 
 #include <stdio.h>

@@ -5,12 +5,6 @@
  * Student ID: 203392964
  * Course Exercise Group: 03
  * Exercise name: ex4
- *
- * GRATITUDE:
- * Thanks to the Roi Yehoshua (instructor of Advanced Programming course) for his example to thread pool
- * implementation in c++ (his code was published in the Piazza in the first semester this year).
- * Thanks to some friends for their advices.
- * Thanks to the instructors for the code files of the Tirgul.
  ****************************************************************************************/
 
 #include <stdio.h>

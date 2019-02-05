@@ -5,28 +5,6 @@
  * Student ID: 203392964
  * Course Exercise Group: 03
  * Exercise name: ex3
- *
- * GRATITUDE:
- * Thanks to friends for ideas of ways to implement some requirements (like checking when
- * the second client wrote its pid in the fifo (thanks to Raz) or checking the format of the
- * input (thanks to Elisheva)).
- *
- * COMMENT:
- * I think there were some exaggerated changes of this exercise requirements after
- * it was published. In the original exercise there wasn't requirement to check existence
- * of potential valid steps in order to check game ending. and there wasn't a requirement
- * to check the format of the input. I implemented it, but I think these additions of
- * requirements were unnecessary. They don't relevant to the learned material of the course
- * and they are not so important.
- * Furthermore, I noticed that there are some strange requirements to this exercise:
- * 1. the second player can't see the first step of the first player, so how can he know
- * where should he put his token? 2. In the 'google doc' file, we were required to write
- * "Please choose another squa" in case of invalid square format, but the word "squa"
- * isn't correct word...
- * I think that these mistakes are legitimate, it is just an exercise. But, in my humble
- * opinion, I think that addition of requirements after publishing of exercise is not correct.
- * For this reason, I think that some of the students didn't notice to some of these
- * things, and I hope that you will consider it and will not decrease their grade. Thanks.
  ****************************************************************************************/
 
 #include <stdio.h>
